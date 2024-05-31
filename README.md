@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Simon(symo😂)
+- 👋 Hi, I’m @Simon
 - 👀 I’m interested in D.S and M.L
 - 🌱 I’m currently learning Software      Engineering and Data science 
 - 💞️ I’m looking to collaborate on Any project 
